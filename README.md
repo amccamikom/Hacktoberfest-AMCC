@@ -1,13 +1,12 @@
-<p align="center"><img src="https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png" width="400"></p> 
+<p align="center"><img src="https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png" width="1240"></p> 
 <h2 align="center"><b>Hacktoberfest with AMCC x DSC Amikom</b></h2>
 <h4 align="center">*diharapkan untuk menggunakan repository dengan bijak*</h4>
-<center>
+
+<p align="center">
 organized by:
 <img src="https://amcc.or.id/themes/amcc-v2/assets/images/amcc-logo.png" width="100"> 
 <img src="https://miro.medium.com/max/6780/1*3GbnuWWc2BIy-fOx2ak34Q.png" width="200">
-</center>
 
-<p align="center">
 
 ## Apa itu hacktoberfest?
 
