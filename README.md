@@ -3,7 +3,6 @@
 <h4 align="center">*diharapkan untuk menggunakan repository dengan bijak*</h4>
 
 <p align="center">
-organized by:
 <img src="https://amcc.or.id/themes/amcc-v2/assets/images/amcc-logo.png" width="100"> 
 <img src="https://miro.medium.com/max/6780/1*3GbnuWWc2BIy-fOx2ak34Q.png" width="200">
 
